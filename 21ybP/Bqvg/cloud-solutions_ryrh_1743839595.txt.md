@@ -410,7 +410,6 @@
 # [1.0.0-beta.9](https://github.com/labring/laf/compare/v1.0.0-beta.8...v1.0.0-beta.9) (2023-06-07)
 
 
-### Bug Fixes
 
 * **cli:** fix ignore file ([#1174](https://github.com/labring/laf/issues/1174)) ([b9f5fc5](https://github.com/labring/laf/commit/b9f5fc50fa571247a31a530e2b0f204be7f79809))
 * **runtime:** empty volume mounted error in runtime image ([#1135](https://github.com/labring/laf/issues/1135)) ([207d29c](https://github.com/labring/laf/commit/207d29c6410bf277982cdf68611f166c0056188d))
