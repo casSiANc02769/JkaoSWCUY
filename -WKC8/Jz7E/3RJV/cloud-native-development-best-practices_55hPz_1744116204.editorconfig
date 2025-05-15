@@ -32,7 +32,6 @@ dotnet_naming_symbols.constant_fields.required_modifiers          = const
 
 # Xml project files
 [*.{csproj,vbproj,vcxproj,vcxproj.filters,proj,projitems,shproj}]
-indent_size = 2
 
 # Xml config files
 [*.{props,targets,ruleset,config,nuspec,resx,vsixmanifest,vsct,xml,stylecop}]
