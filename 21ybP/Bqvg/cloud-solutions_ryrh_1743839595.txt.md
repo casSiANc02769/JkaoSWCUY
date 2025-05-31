@@ -784,7 +784,6 @@
 * **gateway:** refactor gateway in server instead of crd ([#649](https://github.com/labring/laf/issues/649)) ([5207aa4](https://github.com/labring/laf/commit/5207aa45291cbecf4059fa995f4a4cbb4fae0890))
 * **server:** impl bucket domain service ([#661](https://github.com/labring/laf/issues/661)) ([aa8a3af](https://github.com/labring/laf/commit/aa8a3af2e566163882056634cfd58111f6df0056))
 * **server:** support multi-region cluster ([#648](https://github.com/labring/laf/issues/648)) ([ba5698c](https://github.com/labring/laf/commit/ba5698c04d2af69fccca8a6e8433379091da3bf8))
-* **web:** add row & col layout ([#619](https://github.com/labring/laf/issues/619)) ([a016f4e](https://github.com/labring/laf/commit/a016f4e7044bff8159581b3eae9141aef27fd41a))
 * **web:** add trigger panel ([#643](https://github.com/labring/laf/issues/643)) ([fbf850f](https://github.com/labring/laf/commit/fbf850f9e5be11517a6c3412a778d62f600d2bd7))
 * **web:** fix function layout & more button ([#655](https://github.com/labring/laf/issues/655)) ([9813ca3](https://github.com/labring/laf/commit/9813ca3c467b377f54bb63a49e1e645b39770d31))
 * **web:** policy panel & log new UI ([#624](https://github.com/labring/laf/issues/624)) ([dc5df96](https://github.com/labring/laf/commit/dc5df96e82bed00918fac31e8c56a20f50365d1f))
