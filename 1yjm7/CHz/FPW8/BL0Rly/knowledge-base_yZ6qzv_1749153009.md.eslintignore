@@ -9,7 +9,6 @@ node_modules/
 
 # 缓存和生成文件
 coverage/
-.coverage/
 .nyc_output/
 *.log
 
